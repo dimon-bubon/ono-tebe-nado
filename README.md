@@ -1,5 +1,1 @@
-# Яндекс Практикум, 1 спринт, проект "Оно тебе надо"
-
-Работа выполнена жду проверкипш
-
-Репозиторий [https://github.com/dimon-bubon/ono-tebe-nado]
+https://github.com/dimon-bubon/ono-tebe-nado
